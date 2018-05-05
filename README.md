@@ -1,0 +1,2 @@
+# legal_information_extract
+主谓宾三元组信息抽取python实现
